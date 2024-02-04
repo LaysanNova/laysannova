@@ -22,3 +22,4 @@ Hello there! <img width="26px" src = "https://user-images.githubusercontent.com/
 | <img alt="React" width="203" src="img.png"> | <p align="left">     - Detail-Oriented Approach: I meticulously analyze requirements to design comprehensive test cases and scripts, covering various scenarios.<br> - Collaborative Mindset: I believe in effective communication and collaboration with development and product teams to ensure a unified approach to quality.<br> - Continuous Learning: In the ever-evolving field of QA, I stay updated with the latest tools and methodologies to enhance the testing process.</p> |
 
 ### 📫 Let's Connect:
+Feel free to explore my repositories, and let's connect [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/laysan-martin/) if you're interested in discussing QA, automation, or anything related to software quality assurance. Happy testing! 🚀
