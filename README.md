@@ -2,6 +2,19 @@
 
 Hello there! <img width="26px" src = "https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"> I'm Laysan, a dedicated Quality Assurance Automation Engineer with a passion for ensuring the reliability, performance, and scalability of software applications. With a keen eye for detail and a commitment to quality, I specialize in designing and implementing automated testing solutions to streamline the testing process.
 
+## Overview
+
+Welcome to my portfolio! This repository showcases my work in software development and quality assurance. Each project has its own folder with detailed information.
+
+### Project 1: XSHOP
+
+- Description: XSHOP - Online Clothing Store.
+- Technologies Used: HTML, CSS, JavaScript, https://console.firebase.google.com/
+
+### Project 2: E-Commerce Electronic Store Testing 
+- The primary goal of this project is to conduct end-to-end testing of the electronic store's e-commerce platform. This includes validating critical workflows, ensuring the functionality of search features, verifying the checkout process, and confirming the accuracy of product information.
+- Technologies Used: Java, TestNG, Playwright, Allure, POM.
+
 ### 🚀 Skills
 
 - **Programming Languages:** Java, Python, JavaScript, HTML, CSS, JSON
