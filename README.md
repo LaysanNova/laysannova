@@ -10,8 +10,8 @@ Welcome to my portfolio! This repository showcases my work in software developme
 
 - Description: XSHOP - Online Clothing Store.
 - Technologies Used: HTML, CSS, JavaScript:
-  ** https://console.firebase.google.com/
-  ** https://weather-app-5sb5.onrender.com
+- https://console.firebase.google.com/
+  https://weather-app-5sb5.onrender.com
 
 ### Project 2: E-Commerce Electronic Store Testing 
 - The primary goal of this project is to conduct end-to-end testing of the electronic store's e-commerce platform. This includes validating critical workflows, ensuring the functionality of search features, verifying the checkout process, and confirming the accuracy of product information.
